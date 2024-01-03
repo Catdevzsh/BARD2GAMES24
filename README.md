@@ -25,4 +25,4 @@ Welcome to the project dedicated to bringing classic retro games to the M1 Mac p
 
 1. **Clone the Repository:**
    ```shell
-   git clone [repository link]
+   git clone [https://github.com/FlamesCo/BARD2GAMES24/]
