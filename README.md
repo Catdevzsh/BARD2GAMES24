@@ -26,3 +26,4 @@ Welcome to the project dedicated to bringing classic retro games to the M1 Mac p
 1. **Clone the Repository:**
    ```shell
    git clone [https://github.com/FlamesCo/BARD2GAMES24/]
+$ DATASETS USED GPT4 - BARD PRO GEMINI PRO GEMINI VISION TEAM FLAMES THINK TANK 
